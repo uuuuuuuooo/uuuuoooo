@@ -1,0 +1,6 @@
+{
+  "name": "LineDict - 관계형 태그 메모장 포트폴리오",
+  "description": "AI 프롬프트 엔지니어링으로 1인 기획·개발·테스트를 완수한 한 줄 삭제 및 라인 태그 기반 관계형 사전 메모장 앱 포트폴리오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
